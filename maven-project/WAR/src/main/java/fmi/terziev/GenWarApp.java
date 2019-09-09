@@ -1,0 +1,9 @@
+package fmi.terziev;
+
+public class GenWarApp {
+
+	public static void main(String[] args) {
+		System.out.println("Hello my name is Nikolay");			
+	}
+
+}
